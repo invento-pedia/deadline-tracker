@@ -61,7 +61,7 @@ flowchart TD
 Requires [Node.js](https://nodejs.org/) 18 or later.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/invento-pedia/deadline-tracker.git
 cd deadline-tracker
 npm install
 npm run dev
